@@ -17,7 +17,6 @@
 ### Требуемые разрешения
 
 1. Доступ к камере используется для дополненной реальности и считывания QR кодов.
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### Контакты
 
