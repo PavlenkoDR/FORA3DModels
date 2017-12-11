@@ -1,6 +1,8 @@
 ## QR коды и схемы
 
-Ниже вы можете скачать QR коды и соответствующие схемы для приложения FORA 3D Models
+Ниже вы можете скачать QR коды и соответствующие схемы для приложения FORA 3D Models.
+
+Распечатайте картинки на листе или откройте их на компьютере для считывания QR кодов и демонстрации 3D моделей на схемах.
 
 ### Ядро жесткости
 <img src="https://pavlenkodr.github.io/FORA3DModels/images/IMG_6599.jpg" height="180"><a href="https://pavlenkodr.github.io/FORA3DModels/images/2G9BIcJUCyQ.jpg"><img src="https://pavlenkodr.github.io/FORA3DModels/images/2G9BIcJUCyQ.jpg" height="180"><a href="https://pavlenkodr.github.io/FORA3DModels/images/JUTzxG3Fy3w.jpg"><img src="https://pavlenkodr.github.io/FORA3DModels/images/JUTzxG3Fy3w.jpg" height="180">
