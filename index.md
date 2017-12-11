@@ -21,3 +21,7 @@
 ### Контакты
 
 e-mail: info@fora-systems.ru
+
+### Смотрите также
+
+[QR коды и схемы](QRCodes)
