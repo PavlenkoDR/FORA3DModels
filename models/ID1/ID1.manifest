@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 601796973
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gexabit.bundle
+      Dependencies: {}
+    Info_1:
+      Name: gexabit_raskryty.bundle
+      Dependencies: {}

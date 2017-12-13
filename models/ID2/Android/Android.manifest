@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 67446354
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: kruglaya_kolonna.bundle
+      Dependencies: {}
+    Info_1:
+      Name: kruglaya_kolonna_karkas.bundle
+      Dependencies: {}
+    Info_2:
+      Name: kruglaya_kolonna_polovina.bundle
+      Dependencies: {}
