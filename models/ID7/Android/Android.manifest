@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1098046688
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: stenovaya_opalubka_s_perekhodom_na_opalubku_perekrytia.bundle
+      Dependencies: {}
+    Info_1:
+      Name: "\u0421\u043B\u043E\u0439 1.bundle"
+      Dependencies: {}
+    Info_2:
+      Name: "\u0421\u043B\u043E\u0439 2.bundle"
+      Dependencies: {}
