@@ -1,19 +1,16 @@
 ManifestFileVersion: 0
-CRC: 2323317557
+CRC: 152792674
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: 1.bundle
       Dependencies: {}
     Info_1:
-      Name: stenovaya_opalubka_s_perekhodom_na_opalubku_perekrytia.bundle
-      Dependencies: {}
-    Info_2:
       Name: 2.bundle
       Dependencies: {}
-    Info_3:
+    Info_2:
       Name: 3.bundle
       Dependencies: {}
-    Info_4:
+    Info_3:
       Name: 4.bundle
       Dependencies: {}
