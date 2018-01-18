@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 19506637
+CRC: 1538897387
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b157b2b74c1861a4c62a0f6770f65ad8
+    Hash: 399a98cbbd3190d807d202f62c9b4440
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6fa9ce387392089bc59dd886979cd053
+    Hash: 1934caf3a71876248b5bb0b38c1db33a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,6 +24,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/OBJExport/3.prefab
-- Assets/3.3DS
+- Assets/3.prefab
 Dependencies: []
