@@ -1,1 +1,1 @@
-{"name":"Ядро жесткости","objects":[],"bundles":["yadro_zhestkosti.bundle"],"others":[".transform","ID3.dat","ID3.manifest","ID3.xml","yadro_zhestkosti.bundle.manifest","yadro_zhestkosti.transform"]}
+{"name":"Ядро жесткости","objects":[],"bundles":["yadro_zhestkosti.bundle"],"others":["ID3.dat","ID3.manifest","ID3.xml","yadro_zhestkosti.bundle.manifest","yadro_zhestkosti.transform","yadro_zhestkosti.transformjs"]}
