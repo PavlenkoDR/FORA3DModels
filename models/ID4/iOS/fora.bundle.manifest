@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2788154699
+CRC: 2118965782
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a0257a73167e04da9da7f6ce04f4326b
+    Hash: 8dfe8480dcc4bc70d28ba95c1df642e8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1934caf3a71876248b5bb0b38c1db33a
+    Hash: 6fa9ce387392089bc59dd886979cd053
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,5 +24,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/OBJExport/fora.prefab
+- Assets/fora.prefab
 Dependencies: []
