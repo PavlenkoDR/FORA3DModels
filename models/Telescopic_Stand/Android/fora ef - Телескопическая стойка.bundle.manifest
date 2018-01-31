@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1340384974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5df1b0f5b1cd78582e89d5a5c45309c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fa9ce387392089bc59dd886979cd053
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Fora EF - \u0422\u0435\u043B\u0435\u0441\u043A\u043E\u043F\u0438\u0447\u0435\u0441\u043A\u0430\u044F
+  \u0441\u0442\u043E\u0439\u043A\u0430.prefab"
+Dependencies: []
