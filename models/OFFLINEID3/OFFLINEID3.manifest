@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1375527701
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: stairs full.bundle
+      Dependencies: {}
+    Info_1:
+      Name: stairs insight.bundle
+      Dependencies: {}
+    Info_2:
+      Name: stairs no standart.bundle
+      Dependencies: {}
+    Info_3:
+      Name: stairs without wall.bundle
+      Dependencies: {}
