@@ -1,25 +1,25 @@
 ManifestFileVersion: 0
-CRC: 2178244594
+CRC: 610501826
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: "\u0428\u0430\u04332.bundle"
+      Name: "\u0428\u0430\u0433 1.bundle"
       Dependencies: {}
     Info_1:
-      Name: "\u0428\u0430\u04331.bundle"
+      Name: "\u0428\u0430\u0433 2.bundle"
       Dependencies: {}
     Info_2:
-      Name: "\u0428\u0430\u04333.bundle"
+      Name: "\u0428\u0430\u0433 3.bundle"
       Dependencies: {}
     Info_3:
-      Name: "\u0428\u0430\u04334.bundle"
+      Name: "\u0428\u0430\u0433 4.bundle"
       Dependencies: {}
     Info_4:
-      Name: "\u0428\u0430\u04335.bundle"
+      Name: "\u0428\u0430\u0433 5.bundle"
       Dependencies: {}
     Info_5:
-      Name: "\u0428\u0430\u04336.bundle"
+      Name: "\u0428\u0430\u0433 6.bundle"
       Dependencies: {}
     Info_6:
-      Name: "\u0428\u0430\u04337.bundle"
+      Name: "\u0428\u0430\u0433 7.bundle"
       Dependencies: {}
