@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1485025369
+CRC: 1093318970
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: "\u0421\u0442\u0440 44.bundle"
+      Name: "\u0421\u0442\u0440 44 \u0441\u043B 1.bundle"
+      Dependencies: {}
+    Info_1:
+      Name: "\u0421\u0442\u0440 44 \u0441\u043B 2.bundle"
       Dependencies: {}
