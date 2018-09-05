@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3246428456
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: step1.bundle
+      Dependencies: {}
+    Info_1:
+      Name: step2.bundle
+      Dependencies: {}
+    Info_2:
+      Name: step3.bundle
+      Dependencies: {}
+    Info_3:
+      Name: step4.bundle
+      Dependencies: {}
+    Info_4:
+      Name: step5.bundle
+      Dependencies: {}
